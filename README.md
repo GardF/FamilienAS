@@ -3,7 +3,7 @@
 
 ## Personlig Økonomi 
 
-![image](https://github.com/user-attachments/assets/ae049dd7-4a68-4890-be2a-b2bdd0af5ea8)
+<img width="1655" height="1285" alt="image" src="https://github.com/user-attachments/assets/da32aa09-2391-45ae-9237-4bbc6343bcec" />
 
 Grønne piler er OK, gule må fikses
 
